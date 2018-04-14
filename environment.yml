@@ -1,9 +1,9 @@
-name: ceppe_35
+name: ceppe
 channels:
 - defaults
 - conda-forge
 dependencies:
-- python=3.5.0
-- anaconda
+- python=3.6.1
+- anaconda=4.4.0
 - pyomo
 - pyomo.extras

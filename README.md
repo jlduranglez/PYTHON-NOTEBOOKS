@@ -1,14 +1,14 @@
-# Curso CEPPE.
+# Curso CEPPE
 
-## Descripción:
 Curso Python para ingenieros - Nivel 2, por Smart Data Science.
 
-## Organizacion:
-* Sesiones: 4 sesiones (6 horas/sesión).
+## Organizacion
+
+* 4 sesiones (6 horas/sesión)
 * Horario: sábados de  8:30 a 14:30 
 * Fechas: 12, 19, 26 de Mayo y 2 de Junio
 
-## Contenido:
+## Contenido
 1. ¿Por qué Python?  Presentación comparativa, fortalezas, potencial futuro
 2. ¿Cómo trabajar en Python? Uso de editores (Spyder, PyCharm, etc.) y notebooks de Jupyter
 3. Sintaxis básica:
@@ -33,7 +33,7 @@ Curso Python para ingenieros - Nivel 2, por Smart Data Science.
 9. Introducción a Data Science
 10. Introducción a Inteligencia Artificial: Machine Learning y Deep Learning 
 
-## Autores:
+## Autores
 
 * Alejandro Sáez Mollejo: saezm.alex@gmail.com
 * Mabel Delgado Babiano: mabeldb@gmail.com
